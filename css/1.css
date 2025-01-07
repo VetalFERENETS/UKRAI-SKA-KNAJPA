@@ -1,0 +1,4 @@
+.header{
+    border-radius: 44px;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+}
