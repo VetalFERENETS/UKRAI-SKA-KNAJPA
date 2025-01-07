@@ -1,0 +1,110 @@
+
+
+
+.header{
+    background-size: cover; background-repeat: no-repeat;
+    border-radius: 44px;
+max-width: 100%;
+height: auto;
+border-radius: 44px;
+padding-top: 40px;
+padding-bottom: 40px;
+background-image: url(./photo_2024-12-11_13-53-13\ 1.png) ;
+display: block; 
+margin-left: auto; 
+margin-right: auto;
+display: flex; justify-content: center; /* Горизонтальне вирівнювання */ align-items: center;
+}
+.h1{
+    color: #FFF;
+    text-align: center;
+    font-family: "Playfair Display";
+   font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.menu{
+    color: #FFF;
+font-family: "Playfair Display";
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+ul{
+    list-style: none;
+    list-style-type: none;
+    text-decoration: none;
+gap: 110px;
+    text-decoration: none;
+    margin-left: -40px;
+}
+li{
+    list-style: none;
+    list-style: none;
+    list-style-type: none;
+    text-decoration: none;
+ 
+}
+nav{
+    list-style: none;
+    list-style: none;
+    list-style-type: none;
+    text-decoration: none;
+
+}
+a{
+    text-decoration: none;
+}
+.list{
+    display: flex;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+
+}
+.aea{
+    padding: 0;
+    max-width: 100%;
+    margin-top: 40px;
+    margin-bottom: 360px;
+}
+body{
+    background-color: #1E1E1E;
+}
+.vector{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 22px;
+}
+
+
+
+
+.maiin{
+    padding-top: 95px;
+    padding-bottom: 95px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+h2{
+    color: #FFF;
+text-align: center;
+text-align: center;
+font-family: "Playfair Display";
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.text{
+    color: #FFF;
+    text-align: center;
+font-family: "Playfair Display";
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
