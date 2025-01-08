@@ -31,7 +31,35 @@ font-size: 24px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
+text-decoration: none; 
+position: relative;
 }
+svg:hover{
+    fill: #000000; 
+}
+.caes{
+    fill: #FBBB3C;
+    color: #000000;
+}
+.caes:hover{
+    fill: #FBBB3C;
+ }
+.menu::after 
+{ content: '';
+     position: absolute; 
+     width: 100%;
+      transform: scaleX(0);
+       height: 2px;
+        bottom: 0;
+         left: 0;
+          background-color: rgb(255, 255, 255);
+           transform-origin: bottom right;
+            transition: transform 0.25s ease-out;
+}
+.menu:hover::after,
+ .menu:focus::after { transform: scaleX(1);
+     transform-origin: bottom left; 
+    }
 ul{
     list-style: none;
     list-style-type: none;
