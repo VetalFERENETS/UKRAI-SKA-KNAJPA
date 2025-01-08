@@ -68,7 +68,7 @@ a{
     padding: 0;
     max-width: 100%;
     margin-top: 40px;
-    margin-bottom: 360px;
+    margin-bottom: 335px;
 }
 body{
     background-color: #1E1E1E;
@@ -84,17 +84,17 @@ body{
 
 
 .maiin{
-    padding-top: 95px;
-    padding-bottom: 95px;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    padding-left: 60px;
+    padding-right: 60px;
 }
 h2{
     color: #FFF;
 text-align: center;
 text-align: center;
 font-family: "Playfair Display";
-font-size: 28px;
+font-size: 25px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
@@ -103,7 +103,119 @@ line-height: normal;
     color: #FFF;
     text-align: center;
 font-family: "Playfair Display";
-font-size: 20px;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.hert1{
+    color: #FFF;
+font-family: "Playfair Display";
+font-size: 23px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 30px;
+margin-top: -5px;
+}
+.hert{
+    color: #FFF;
+font-family: "Playfair Display";
+font-size: 23px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.hert2{
+    color: #FFF;
+font-family: "Playfair Display";
+font-size: 23px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-left: 60px;
+margin-right: 65px;
+
+}
+.hert3{
+    color: #FFF;
+font-family: "Playfair Display";
+font-size: 23px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-left: 60px;
+margin-right: 65px;
+padding-top: 5pxpx ;
+}
+.faer{
+    padding-top: 95px ;
+}
+.pogo{
+    border-radius: 44px;
+    flex-shrink: 0;
+    height: 490px;
+opacity: 85%;
+}
+.mone{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.klei{
+    display: flex;
+    
+}
+.infa{
+    display: block;
+    margin-left: 65px;
+    padding-right:60px;
+}
+.piwo{
+    border-radius: 44px;
+    height: 430px;
+    opacity: 85%;
+    top: -110px;
+    position: relative;
+}
+
+
+
+
+.kop{
+    background-size: cover; background-repeat: no-repeat;
+max-width: 100%;
+height: auto;
+border-radius: 44px;
+background-image: url(./IMG_60635.jpg) ;
+margin-left: auto; 
+margin-right: auto;
+}
+footer{
+    padding-left: 60px;
+padding-right: 60px;
+padding-top: 60px;
+padding-bottom: 60px;
+}
+.lpow{
+    color: #FFF;
+font-family: "Abhaya Libre";
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.aber{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.kinec{
+    color: #FFF;
+font-family: "Abhaya Libre ExtraBold";
+font-size: 18px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
