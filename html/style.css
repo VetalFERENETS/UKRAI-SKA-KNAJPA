@@ -1,6 +1,21 @@
 
-
-
+.bods{
+    border-radius: 44px;
+background-image: url(./IMG_5610.png) ;
+max-width: 100%;
+height: auto; 
+margin-left: auto; 
+margin-right: auto;
+border-radius: 44px;
+}
+.header2{
+    max-width: 100%;
+    height: auto; 
+    padding-top: 40px;
+padding-bottom: 40px;
+margin-left: auto; 
+margin-right: auto;
+}
 .header{
     background-size: cover; background-repeat: no-repeat;
     border-radius: 44px;
@@ -94,6 +109,11 @@ a{
     max-width: 100%;
     margin-top: 40px;
     margin-bottom: 335px;
+}
+.aer{
+        padding: 0;
+        max-width: 100%;
+        margin-top: 40px;
 }
 body{
     background-color: #1E1E1E;
@@ -207,6 +227,10 @@ opacity: 85%;
 
 
 
+.kop3{
+    margin-left: auto; 
+    margin-right: auto;
+}
 
 .kop{
     background-size: cover; background-repeat: no-repeat;
@@ -244,4 +268,65 @@ font-size: 18px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
+}
+.toi{
+margin-bottom: 70px;
+}
+.meny{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+
+}
+.strawy{
+    color: #FFF;
+    font-family: "Abhaya Libre ExtraBold";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    position: relative;
+}
+.strawy::after 
+{ content: '';
+     position: absolute; 
+     width: 100%;
+      transform: scaleX(0);
+       height: 2px;
+        bottom: 0;
+         left: 0;
+          background-color: rgb(255, 255, 255);
+           transform-origin: bottom right;
+            transition: transform 0.25s ease-out;
+}
+.strawy:hover::after,
+ .strawy:focus::after { transform: scaleX(1);
+     transform-origin: bottom left; 
+    }
+.Pierogi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 170px;
+}
+.Pierogi1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 170px;
+}
+.rozmir{
+    width: 250px;
+    height: 250px;
+}
+.boxx{
+    width: 300px;
+    border-radius: 44px;
+border: 1px solid #FFF;
+background: rgba(30, 30, 30, 0.50);
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 15px;
+
 }
