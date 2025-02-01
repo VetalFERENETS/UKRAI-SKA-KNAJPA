@@ -20,15 +20,15 @@ margin-right: auto;
     background-size: cover; background-repeat: no-repeat;
     border-radius: 44px;
 max-width: 100%;
-height: auto;
+height: auto;       
 border-radius: 44px;
 padding-top: 40px;
 padding-bottom: 40px;
-background-image: url(./photo_2024-12-11_13-53-13\ 1.png) ;
+background-image: url(./photo_2024-12-11_13-53-13.png) ;
 display: block; 
 margin-left: auto; 
 margin-right: auto;
-display: flex; justify-content: center; /* Горизонтальне вирівнювання */ align-items: center;
+display: flex; justify-content: center; /* ./photo_2024-12-11_13-53-13\ 1.png Горизонтальне вирівнювання  ./photo_2024-12-11_13-53-00 (2).jpg */ align-items: center;
 }
 .h1{
     color: #FFF;
@@ -38,6 +38,8 @@ display: flex; justify-content: center; /* Горизонтальне вирів
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    margin-top: 0px;
+margin-bottom: 0px;
 }
 .menu{
     color: #FFF;
@@ -102,7 +104,8 @@ a{
     max-width: 100%;
     align-items: center;
     justify-content: center;
-
+margin-top: 0px;
+margin-bottom: 0px;
 }
 .aea{
     padding: 0;
@@ -244,8 +247,8 @@ margin-right: auto;
 footer{
     padding-left: 60px;
 padding-right: 60px;
-padding-top: 60px;
-padding-bottom: 60px;
+padding-top: 40px;
+padding-bottom: 40px;
 }
 .lpow{
     color: #FFF;
@@ -359,7 +362,167 @@ font-weight: 800;
     border-radius: 44px;
 border: 1px solid #FFF;
 background: rgba(30, 30, 30, 0.50);
-padding-left: 62px;
-padding-right: 62px;
+padding-left: 60px;
+padding-right: 60px;
 padding-top: 15px;
 }
+.zasta{
+    border-radius: 44px;
+    max-width: 100%;
+height: auto; 
+margin-left: auto; 
+margin-right: auto;
+background-image: url(./IMG_5249\ 3.png) ;
+padding-top: 85px;
+padding-left: 60px;
+padding-right: 60px;
+padding-bottom: 35px;
+}
+.textr{
+    color: #FFF;
+    font-family: "Abhaya Libre ExtraBold";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 105px;
+    width: 550px;
+}
+.textr1{
+    color: #FFF;
+    font-family: "Abhaya Libre ExtraBold";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 550px;
+    margin-bottom: 90px ;
+}
+.weww{
+   display: flex;
+justify-content: flex-end;
+}
+.wewv{
+    display: flex;
+ justify-content: flex-start;
+ }
+span{
+fill: #FFF;
+color: #FFF;
+margin-left: 12px;
+ }
+ .fotka{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+ .dosta{
+    color: #FFF;
+font-family: "Abhaya Libre ExtraBold";
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+margin-top: auto;
+margin-bottom: 40px;
+ }
+ .qeq{
+    color: #FFF;
+font-family: "Abhaya Libre ExtraBold";
+font-size: 16px;
+font-style: normal;
+
+line-height: normal;
+margin-top: auto;
+margin-bottom: auto;
+ }
+ .qet{
+    color: #FFF;
+font-family: "Abhaya Libre ExtraBold";
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-top: auto;
+margin-bottom: auto;
+margin-bottom: 10px;
+ }
+ .wolt{
+    margin-bottom: 40px;
+ }
+ .dost{
+    margin-left: auto;
+    margin-right: auto ;
+    padding-left: 60px;
+padding-right: 60px;
+padding-top: 65px;
+padding-bottom: 65px;
+ }
+ .goscie{
+    color: #FFF;
+font-family: "Abhaya Libre ExtraBold";
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+line-height: normal;
+text-align: center;
+margin-top: auto;
+margin-bottom: 40px;
+ }
+ .star{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+ }
+ .nazwi{
+    color: #FFF;
+font-family: "Abhaya Libre ExtraBold";
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+margin-top: 25px;
+margin-bottom: 25px;
+ }
+ .otzuw{
+    color: #FFF;
+text-align: center;
+font-family: "Abhaya Libre ExtraBold";
+font-size: 16px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-top: 0px;
+margin-bottom: 0px;
+ }
+ .osoby{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+ }
+ .osobi{
+    padding-left: 60px;
+    padding-right: 60px;
+ }
+ .osoba1{
+    
+    width: 460px;
+ }
+ .osoba2{
+    width: 460px;
+ }
+ .elips1{
+    fill: #EE9463;
+
+ }
+ .ellips{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 40px;
+ }
