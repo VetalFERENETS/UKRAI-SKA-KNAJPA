@@ -372,7 +372,7 @@ padding-top: 15px;
 height: auto; 
 margin-left: auto; 
 margin-right: auto;
-background-image: url(./IMG_5249\ 3.png) ;
+background-image: url(./IMG_52493.png) ;
 padding-top: 85px;
 padding-left: 60px;
 padding-right: 60px;
@@ -387,6 +387,7 @@ padding-bottom: 35px;
     line-height: normal;
     margin-bottom: 105px;
     width: 550px;
+    height: 124px;
 }
 .textr1{
     color: #FFF;
@@ -397,6 +398,7 @@ padding-bottom: 35px;
     line-height: normal;
     width: 550px;
     margin-bottom: 90px ;
+    height: 145px;
 }
 .weww{
    display: flex;
@@ -406,11 +408,18 @@ justify-content: flex-end;
     display: flex;
  justify-content: flex-start;
  }
-span{
+.odin{
 fill: #FFF;
 color: #FFF;
 margin-left: 12px;
+cursor: pointer;
  }
+ .odi{
+    fill: #FFF;
+    color: #FFF;
+    margin-right: 12px;
+    cursor: pointer;
+     }
  .fotka{
   display: flex;
   align-items: center;

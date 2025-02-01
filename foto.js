@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
 document.addEventListener("DOMContentLoaded", function() {
     const imageElement = document.getElementById("photo");
     const images = [
-        "./html/IMG_5681 1.jpg",
+        "./html/IMG_56811.jpg",
         "./html/piwoo.png"
     ];
     let currentIndex = 0;
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
 document.addEventListener("DOMContentLoaded", function() {
     const imageElement = document.getElementById("phot");
     const images = [
-        "./html/IMG_5684 2.jpg",
+        "./html/IMG_56842.jpg",
         "./html/menuu.png"
     ];
     let currentIndex = 0;
