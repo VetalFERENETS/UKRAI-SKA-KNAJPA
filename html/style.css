@@ -306,20 +306,15 @@ margin-bottom: 70px;
     }
 .Pierogi{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
-    gap: 170px;
 }
 .Pierogi1{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
-    gap: 170px;
 }
-.rozmir{
-    width: 250px;
-    height: 250px;
-}
+
 .boxx{
     width: 300px;
     border-radius: 44px;
