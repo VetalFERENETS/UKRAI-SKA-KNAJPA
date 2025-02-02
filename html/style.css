@@ -507,6 +507,7 @@ font-weight: 800;
 line-height: normal;
 margin-top: 0px;
 margin-bottom: 0px;
+height: 90px;
  }
  .osoby{
     display: flex;
@@ -517,6 +518,9 @@ margin-bottom: 0px;
     padding-left: 60px;
     padding-right: 60px;
  }
+ .active {
+    fill: #ee9363;
+}
  .osoba1{
     
     width: 460px;
@@ -524,10 +528,31 @@ margin-bottom: 0px;
  .osoba2{
     width: 460px;
  }
- .elips1{
-    fill: #EE9463;
+ .elips{
+    cursor: pointer;
+    .active {
+        fill: #ee9363;
+    }
 
  }
+ .elips2{
+    fill: #D9D9D9;
+    cursor: pointer;
+
+ }
+
+ .elips3{
+    fill: #D9D9D9;
+    cursor: pointer;
+
+ }
+
+ .elips4{
+    fill: #D9D9D9;
+    cursor: pointer;
+
+ }
+
  .ellips{
     display: flex;
     justify-content: center;
