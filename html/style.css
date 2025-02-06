@@ -362,6 +362,15 @@ padding-right: 22px;
 padding-top: 15px;
 
 }
+.boxx3{
+ 
+      border-radius: 44px;
+  border: 1px solid #FFF;
+  background: rgba(30, 30, 30, 0.50);
+
+  height: 391px;
+  width: 340px;
+  }
 .pierogi{
     color: #FFF;
 text-align: center;
@@ -373,10 +382,10 @@ font-weight: 800;
 }
 .rozmir1{
     width: 295px;
-    height: 215px;
+   height: 215px;
 }
 .rozmir2{
-    width: 215px;
+   width: 215px;
     height: 215px;
 }
 .boxx1{
