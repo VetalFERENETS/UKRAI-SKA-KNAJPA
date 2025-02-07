@@ -367,7 +367,9 @@ padding-top: 15px;
       border-radius: 44px;
   border: 1px solid #FFF;
   background: rgba(30, 30, 30, 0.50);
-
+display: flex;
+flex-direction: column;
+    justify-content: center;
   height: 391px;
   width: 340px;
   }
