@@ -362,6 +362,15 @@ padding-right: 22px;
 padding-top: 15px;
 
 }
+.boxx5{
+   
+      border-radius: 44px;
+  border: 1px solid #FFF;
+  background: rgba(30, 30, 30, 0.50);
+ width: 260px;
+ height: 190px;
+  
+  }
 .boxx3{
  
       border-radius: 44px;
