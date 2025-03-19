@@ -1,0 +1,132 @@
+@media (max-width:1199px ){
+    .header{
+        width: 100%;
+        background-position: center;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .header2{
+        width: 100%;
+        background-position: center;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .lap{
+        max-width: 768px;
+    }
+    .h1{
+        font-size: 25px;
+    }
+    h2{
+        font-size: 18px;
+    }
+    .text{
+        font-size: 15px;
+    }
+    .menu{
+        font-size: 20px;
+    }
+    .aea{
+        margin-bottom: 205px;
+
+    }
+    .caes{
+        width: 23px;
+        height: 23px;
+    }
+    .maiin{
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 45px;
+        padding-top: 45px;
+    }
+    .pogo{
+        height: 290px;
+        width: 315px;
+    }
+    .piwo{
+        height: 290px;
+        width: 315px;
+        top: -35px;
+    }
+    .hert{
+        font-size: 14px;
+    }
+    .hert1{
+        font-size: 14px;
+    }
+    .hert2{
+        font-size: 14px;
+    }
+    .hert3{
+        font-size: 14px;
+        padding-left: 40px;
+        margin-right: 30px;
+    }
+    .infa{
+        margin-left: 30px;
+        padding-right: 40px;
+    }
+    footer{
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .lpow{
+        font-size: 22px;
+    }
+    .aber{
+        margin-bottom: 65px;
+    }
+    .kinec{
+        font-size: 16px;
+    }
+    .strawy{
+        font-size: 14px;
+    }
+    .meny{
+        gap: 30px;
+    }
+    .rozmir{
+        width: 155px;
+        height: 95px;
+        
+    }
+    .rozmir1{
+        width: 155px;
+        height: 95px;
+        
+    }
+    .boxx{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        height: 215px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .Pierogi{
+        justify-content: center;
+        gap: 82px;
+        margin-bottom: 50px;
+    }
+    .Pierogi1{
+        justify-content: center;
+        gap: 82px;
+        margin-bottom: 50px; 
+    }
+    .Pierogi3{
+        justify-content: center;
+        gap: 82px;
+    }
+    .pierogi{
+        font-size: 15px;
+    }
+    .jjs{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
