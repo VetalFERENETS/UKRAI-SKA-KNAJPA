@@ -186,4 +186,32 @@
         padding-left: 30px;
         padding-right: 30px;
     }
+    .textr{
+        font-size: 15px;
+    }
+    .textr1{
+        font-size: 15px;
+    }
+    .dosta{
+        font-size: 19px;
+    }
+    .qet{
+        font-size: 15px;
+    }
+    .qeq{
+        font-size: 13px;
+    }
+    .goscie{
+        font-size: 19px;
+    }
+    .starr{
+        width: 23px;
+        height: 23px;
+    }
+    .nazwi{
+        font-size: 16px; 
+    }
+    .otzuw{
+        font-size: 13px; 
+    }
 }
