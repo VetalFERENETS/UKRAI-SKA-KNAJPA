@@ -1,0 +1,51 @@
+@media (max-width: 767px){
+
+    .header{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        }
+        .header2{
+            width: 100%;
+            background-position: center;
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        .h1{
+            font-size: 20px;
+        }
+        h2{
+            font-size: 15px;
+        }
+        .text{
+            font-size: 12px;
+        }
+        .menu{
+            font-size: 17px;
+        }
+        .aea{
+            margin-bottom: 195px;
+        }
+        .caes{
+            width: 20px;
+            height: 20px;
+        }
+        .hert{
+            font-size: 11px;
+        }
+        .hert1{
+            font-size: 11px;
+        }
+        .hert2{
+            font-size: 11px;
+        }
+        .hert3{
+            font-size: 11px;
+        }
+        .piwo{
+            opacity: 0;
+            display: none;
+        }
+}
