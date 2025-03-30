@@ -14,7 +14,7 @@
             padding-bottom: 15px;
         }
         .h1{
-            font-size: 20px;
+            font-size: 18px;
         }
         h2{
             font-size: 15px;
@@ -23,7 +23,7 @@
             font-size: 12px;
         }
         .menu{
-            font-size: 17px;
+            font-size: 15px;
         }
         .aea{
             margin-bottom: 195px;
@@ -33,19 +33,61 @@
             height: 20px;
         }
         .hert{
-            font-size: 11px;
+            font-size: 12px;
         }
         .hert1{
-            font-size: 11px;
+            font-size: 12px;
         }
         .hert2{
-            font-size: 11px;
+            font-size: 12px;
+            opacity: 0;
+            display: none;
         }
         .hert3{
-            font-size: 11px;
+            font-size: 12px;
+            opacity: 0;
+            display: none;
         }
         .piwo{
             opacity: 0;
             display: none;
+        }
+        .klei{
+            display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 45px;
+        }
+        .klei1{
+            opacity: 0;
+            display: none;
+        }
+        .infa{
+            margin-left:0px ;
+            padding-right: 0px;
+            text-align: center;
+            margin-top: 25px;
+            padding-left: 40px;
+            padding-right: 40px;
+         
+        }
+        .pogo{
+            width: 320px;
+        }
+        .aber{
+            flex-direction: column;
+        }
+        .lpow{
+            font-size: 18px;
+
+        }
+        .kinec{
+            font-size: 14px;
+            text-align: center;
+        }
+        .aea{
+            margin-bottom: 175px;
         }
 }
