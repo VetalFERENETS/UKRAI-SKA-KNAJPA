@@ -506,6 +506,10 @@ margin-bottom: 10px;
  }
  .wolt{
     margin-bottom: 40px;
+    text-align: center;
+ }
+ .uber{
+    text-align: center;
  }
  .dost{
     margin-left: auto;
@@ -607,3 +611,24 @@ height: 90px;
     gap: 5px;
     margin-bottom: 40px;
  }
+.prac{
+    color: #FFF;
+    text-align: center;
+    font-family: "Abhaya Libre ExtraBold";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.chas{
+    display: flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.gozina{
+    margin-bottom: 50px;
+}
