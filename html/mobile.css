@@ -88,6 +88,62 @@
             text-align: center;
         }
         .aea{
-            margin-bottom: 175px;
+            margin-bottom: 190px;
+        }
+        .meny{
+            gap: 32px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+        .Pierogi{
+            justify-content: center;
+        gap: 50px;
+        flex-direction: column;
+        margin-bottom: 50px;
+        }
+        .Salatki{
+            justify-content: center;
+        gap: 50px;
+        flex-direction: column;
+        margin-bottom: 50px;
+        }
+        .Salatki1{
+            justify-content: center;
+        gap: 50px;
+        flex-direction: column;
+        margin-bottom:25px;
+        }
+        .Pelmeni{
+            justify-content: center;
+        gap: 50px;
+        flex-direction: column;
+        margin-bottom:25px;
+        }
+        .Zupa{
+            justify-content: center;
+        gap: 50px;
+        flex-direction: column;
+        margin-bottom: 50px;
+        }
+        .Zupa1{
+            margin-bottom: 25px;
+        }
+        .Pierogi1{
+            justify-content: center;
+            flex-direction: column;
+        gap: 50px;
+        margin-bottom: 50px;
+        }
+        .Pierogi3{
+            justify-content: center;
+        gap: 50px;
+        flex-direction: column;
+        margin-bottom:25px;
+        }
+        .toi{
+            margin-bottom: 50px;
+        }
+        .pierogi{
+            font-size: 14px;
         }
 }
