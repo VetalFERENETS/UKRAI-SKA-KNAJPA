@@ -146,4 +146,50 @@
         .pierogi{
             font-size: 14px;
         }
+        .textr1{
+            font-size: 14px;
+            width: auto;
+            height: auto;
+            margin-bottom: 75px;
+        }
+        .textr{
+            font-size: 14px;
+            width: auto;
+            height: auto;
+            margin-bottom: 85px;
+        }
+        .zasta{
+            padding-top: 40px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-bottom: 40px;
+        }
+        .dosta{
+            font-size: 17px;
+        }
+        .goscie{
+            font-size: 17px;
+        }
+        .starr{
+            width: 18px;
+            height: 18px;
+        }
+        .osobi{
+            padding-left: 45px;
+            padding-right: 45px;
+         
+        }
+        .nazwi{
+            font-size: 14px;
+        }
+        .otzuw{
+            height: auto;
+
+        }
+        .osoby{
+            flex-wrap: wrap;
+        }
+        .osoba1{
+            margin-bottom: 40px;
+        }
 }
