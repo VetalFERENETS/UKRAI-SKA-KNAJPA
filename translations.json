@@ -1,0 +1,47 @@
+{
+    "en": {
+        "title": "UKRAIŃSKA KNAJPA",
+        "home": "home",
+        "menu": "menu",
+        "about": "about us",
+        "welcome_header": "Welcome to our restaurant!",
+        "welcome_text": "At 'Ukrainska Knajpa', you will always be greeted with home hospitality, served delicious aromatic Ukrainian cuisine dishes and excellent drinks.",
+        "menu_description": "Exquisite menu: Our chefs create culinary masterpieces that delight even the most demanding gourmets.",
+        "cozy_place": "An ideal place where you will feel at home, surrounded by a cozy atmosphere.",
+        "special_events": "We create unforgettable moments in your life!",
+        "event_description": "From weddings to birthdays, from corporate events to special occasions - we turn dreams into reality. Our team of professionals will ensure that every detail is perfect, and every moment unforgettable.",
+        "footer_title": "Ukrainska Knajpa",
+        "footer_address": "City of Wrocław ul.Kotlarska 40",
+        "footer_phone": "Table reservations are made by phone +48 660 003 265"
+    },
+    "uk": {
+        "title": "UKRAIŃSKA KNAJPA",
+        "home": "головна",
+        "menu": "меню",
+        "about": "про нас",
+        "welcome_header": "Ласкаво просимо в наш ресторан!",
+        "welcome_text": "У ресторані 'Українська Кнайпа' вас завжди зустрінуть з домашньою гостинністю, запропонують смачні ароматні страви щедрої української кухні та вишукані напої.",
+        "menu_description": "Вишукане меню: Наші шеф-кухарі створюють кулінарні шедеври, які задовольнять навіть найвимогливіших гурманів.",
+        "cozy_place": "Ідеальне місце, де ви відчуєте себе як вдома, оточені затишною атмосферою.",
+        "special_events": "Ми створюємо незабутні моменти у вашому житті!",
+        "event_description": "Від весіль до днів народження, від корпоративів до особливих подій - ми перетворюємо мрії на реальність. Наша команда професіоналів подбає, щоб кожна деталь була ідеальною, а кожна мить - незабутньою.",
+        "footer_title": "Українська Кнайпа",
+        "footer_address": "Місто Вроцлав вул.Котлярська 40",
+        "footer_phone": "Бронювання столиків здійснюємо за телефоном +48 660 003 265"
+    },
+    "pl": {
+        "title": "UKRAIŃSKA KNAJPA",
+        "home": "główna",
+        "menu": "menu",
+        "about": "o nas",
+        "welcome_header": "Witamy w naszej restauracji!",
+        "welcome_text": "W restauracji 'Ukrainska Knajpa' zawsze będziesz witany, z domową gościnnością, personelem restauracji i poczęstuje się pysznymi aromatycznymi daniami hojnej kuchni ukraińskiej i wyśmienitymi napojami.",
+        "menu_description": "Wykwintne menu: Nasi szefowie kuchni tworzą kulinarne arcydzieła, które zadowolą nawet najbardziej wymagających smakoszy.",
+        "cozy_place": "Idealne miejsce, gdzie poczujesz się jak w domu, otoczony przytulną atmosferą.",
+        "special_events": "Tworzymy niezapomniane chwile w Twoim życiu!",
+        "event_description": "Od wesel po urodziny, od imprez firmowych po specjalne okazje - zmieniamy marzenia w rzeczywistość. Nasz zespół profesjonalistów zadba o to, aby każdy szczegół był perfekcyjny, a każda chwila niezapomniana.",
+        "footer_title": "Ukraińska Knajpa",
+        "footer_address": "Miasto Wrocław ul.Kotlarska 40",
+        "footer_phone": "Rezerwacji stolików dokonujemy pod numerem telefonu +48 660 003 265"
+    }
+}

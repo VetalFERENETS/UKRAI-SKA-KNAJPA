@@ -1,0 +1,36 @@
+{
+    "en": {
+      "title": "UKRAIŃSKA KNAJPA",
+      "home": "home",
+      "menu": "menu",
+      "about": "about us",
+      "story_header1": "Ukrainian cuisine has great potential to be popularised beyond the borders of its homeland. We decided that in order to do this, it was necessary not only to open a restaurant, but also to create an atmosphere that would reflect the spirit of a real Ukrainian pub - a place where it is comfortable and cosy, where you can meet with friends or family and spend time in sincere conversations while enjoying homemade dishes. ",
+      "story_header": "The story of the creation of a family restaurant called ‘Ukrainska Knajpa’ began with a simple but important desire - to preserve and popularise Ukrainian traditions of hospitality and cuisine. Our family decided to open a place where everyone could feel the warmth of home, taste tasty dishes of Ukrainian cuisine and learn about our traditions.",
+      "delivery_header": "Delivery is also available:",
+      "footer_address": "City Wrocław, Kotlarska Street 40",
+      "footer_phone": "Table reservations by phone: +48 660 003 265"
+    },
+    "pl": {
+    "title": "UKRAIŃSKA KNAJPA",
+      "home": "główna",
+      "menu": "menu",
+      "about": "o nas",
+      "story_header1": "Ukraińska kuchnia ma duży potencjał do popularyzacji poza granicami swojej ojczyzny. Zdecydowaliśmy, że do tego celu trzeba nie tylko otworzyć restaurację, ale także stworzyć atmosferę, która oddawałaby ducha prawdziwej ukraińskiej knajpy – miejsca, gdzie jest wygodnie i przytulnie, gdzie można spotkać się z przyjaciółmi lub rodziną i spędzić czas na szczerych rozmowach, delektując się domowymi potrawami. ",
+      "story_header": "Historia stworzenia rodzinnej restauracji o nazwie „Ukraińska Knajpa” zaczęła się od prostego, ale ważnego pragnienia – zachowania i popularyzacji ukraińskich tradycji gościnności oraz kuchni. Nasza rodzina postanowiła otworzyć miejsce, gdzie każdy mógłby poczuć ciepło domowego ogniska, skosztować smacznych potraw ukraińskiej kuchni i poznać nasze tradycje.",
+      "delivery_header": "Dostawa również dostępna:",
+      "footer_address": "Miasto Wrocław, ul. Kotlarska 40",
+      "footer_phone": "Rezerwacji stolików dokonujemy pod numerem telefonu: +48 660 003 265"
+    },
+    "uk": {
+"title": "UKRAIŃSKA KNAJPA",
+      "home": "головна",
+      "menu": "меню",
+      "about": "про нас",
+      "story_header1": "Українська кухня має великий потенціал для популяризації за межами своєї батьківщини. Ми вирішили, що для цього необхідно не просто відкрити ресторан, а й створити атмосферу, яка б відображала дух справжнього українського пабу - місця, де комфортно і затишно, де можна зустрітися з друзями або родиною і провести час за душевними розмовами, насолоджуючись домашніми стравами. ",
+      "story_header": "Історія створення сімейного ресторану «Українська кухня» почалася з простого, але важливого бажання - зберегти та популяризувати українські традиції гостинності та кухні. Наша сім'я вирішила відкрити місце, де кожен міг би відчути домашнє тепло, скуштувати смачні страви української кухні та дізнатися про наші традиції.",
+      "delivery_header": "Доступна також доставка:",
+      "footer_address": "Місто Вроцлав, вул. Котларська, 40",
+      "footer_phone": "Бронювання столиків за телефоном: +48 660 003 265"
+    }
+  }
+  
