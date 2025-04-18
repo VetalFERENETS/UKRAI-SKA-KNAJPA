@@ -1,12 +1,11 @@
 
 .bods{
-    border-radius: 44px;
-background-image: url(./IMG_5610.png) ;
+    background-color: #ffffff;
 max-width: 100%;
 height: auto; 
 margin-left: auto; 
 margin-right: auto;
-border-radius: 44px;
+
 }
 .header2{
     max-width: 100%;
@@ -15,16 +14,19 @@ border-radius: 44px;
 padding-bottom: 40px;
 margin-left: auto; 
 margin-right: auto;
+background-image: url(./photo_2025-04-07_12-00-44.jpg) ;
+background-size: cover; background-repeat: no-repeat;
+margin-bottom: 50px;
 }
 .header{
     background-size: cover; background-repeat: no-repeat;
-    border-radius: 44px;
+
 max-width: 100%;
 height: auto;       
-border-radius: 44px;
+
 padding-top: 40px;
 padding-bottom: 40px;
-background-image: url(./photo_2024-12-11_13-53-13.png) ;
+background-image: url(./photo_2024-12-11_13-53-01.jpg) ;
 display: block; 
 margin-left: auto; 
 margin-right: auto;
@@ -120,7 +122,9 @@ margin-bottom: 0px;
 }
 body{
     background-color: #1E1E1E;
+    margin: 0px;
 }
+
 .vector{
     display: flex;
     align-items: center;
@@ -278,7 +282,8 @@ font-weight: 800;
 line-height: normal;
 }
 .toi{
-margin-bottom: 70px;
+
+margin-top: 50px;
 }
 .meny{
     display: flex;
