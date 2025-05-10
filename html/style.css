@@ -1,12 +1,12 @@
+.jjs{
+   
+}
 
 .bods{
-    
+    background-image: url(./IMG_52493.png);
     background-size: cover; background-repeat: no-repeat;
-    display: flex; justify-content: center; /* ./photo_2024-12-11_13-53-13\ 1.png Горизонтальне вирівнювання  ./photo_2024-12-11_13-53-00 (2).jpg */ align-items: center;
-    height: auto;       
-    
-    
-    background-image: url(./menyy1.JPG) ;
+    border-radius: 44px;
+background-color: #2c2c2c;
     display: block; 
     margin-left: auto; 
     margin-right: auto;
@@ -41,6 +41,9 @@ margin-right: auto;
 padding-bottom: 40px;
 margin-left: auto; 
 margin-right: auto;
+background-size: cover; background-repeat: no-repeat;
+      
+
 
 background-size: cover; background-repeat: no-repeat;
 margin-bottom: 50px;
@@ -274,10 +277,12 @@ opacity: 85%;
     background-size: cover; background-repeat: no-repeat;
 max-width: 100%;
 height: auto;
+background-color: #2c2c2c;
 border-radius: 44px;
 background-image: url(./IMG_60635.jpg) ;
 margin-left: auto; 
 margin-right: auto;
+margin-top: 90px;
 }
 footer{
     padding-left: 60px;
@@ -389,11 +394,13 @@ margin-top: 50px;
     justify-content: space-evenly;
     align-items: center;
 }
+
 .boxx{
   padding-bottom: 25px;
     border-radius: 44px;
-border: 1px solid #7a7979;
-background: rgba(30, 30, 30, 0.50);
+    background-color: transparent; /* робить фон повністю прозорим */
+    border: 2px solid #4d4c4c;
+
 padding-left: 22px;
 padding-right: 22px;
 padding-top: 15px;
