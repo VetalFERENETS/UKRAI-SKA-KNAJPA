@@ -1,6 +1,15 @@
 
 .bods{
-    background-color: #ffffff;
+    
+    background-size: cover; background-repeat: no-repeat;
+    display: flex; justify-content: center; /* ./photo_2024-12-11_13-53-13\ 1.png Горизонтальне вирівнювання  ./photo_2024-12-11_13-53-00 (2).jpg */ align-items: center;
+    height: auto;       
+    
+    
+    background-image: url(./menyy1.JPG) ;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
 max-width: 100%;
 height: auto; 
 margin-left: auto; 
