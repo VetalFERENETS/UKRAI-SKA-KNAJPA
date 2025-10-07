@@ -354,6 +354,7 @@ margin-top: 50px;
     justify-content: space-evenly;
     align-items: center;
     margin-bottom: 70px;
+    
 }
 .Pierogi1{
     display: flex;
@@ -399,28 +400,47 @@ margin-top: 50px;
   padding-bottom: 25px;
     border-radius: 44px;
     background-color: transparent; /* робить фон повністю прозорим */
-    border: 2px solid #4d4c4c;
-
+border: 0.2px solid #949494af;
+ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+ transition: box-shadow 0.5s ease, transform 0.5s ease;
 padding-left: 22px;
 padding-right: 22px;
 padding-top: 15px;
-
+}
+.boxx:hover{
+     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.35);
+      transform: scale(1.03);
+}
+.boxx9:hover{
+     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.35);
+      transform: scale(1.03);
+}
+.boxx5:hover{
+     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.35);
+      transform: scale(1.03);
+}
+.boxx3:hover{
+     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.35);
+      transform: scale(1.03);
 }
 .boxx9{
     padding-bottom: 25px;
     border-radius: 44px;
-border: 1px solid #7a7979;
-background: rgba(30, 30, 30, 0.50);
+
 padding-left: 22px;
 padding-right: 22px;
 padding-top: 15px;
+border: 0.2px solid #949494af;
+ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+ transition: box-shadow 0.5s ease, transform 0.5s ease;
 height: 392px;
 }
 .boxx5{
-   
+border: 0.2px solid #949494af;
+ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+ transition: box-shadow 0.5s ease, transform 0.5s ease;
       border-radius: 44px;
-  border: 1px solid #7a7979;
-  background: rgba(30, 30, 30, 0.50);
+ 
  width: 260px;
  height: 190px;
   
@@ -428,8 +448,9 @@ height: 392px;
 .boxx3{
  
       border-radius: 44px;
-  border: 1px solid #7a7979;
-  background: rgba(30, 30, 30, 0.50);
+border: 0.2px solid #949494af;
+ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+ transition: box-shadow 0.5s ease, transform 0.5s ease;
 display: flex;
 flex-direction: column;
     justify-content: center;
@@ -457,7 +478,7 @@ font-weight: 800;
     padding-bottom: 25px;
     border-radius: 44px;
 border: 1px solid #7a7979;
-background: rgba(30, 30, 30, 0.50);
+background:  transparent;
 padding-left: 60px;
 padding-right: 60px;
 padding-top: 15px;
