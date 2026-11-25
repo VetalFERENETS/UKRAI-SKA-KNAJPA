@@ -18,11 +18,25 @@
         h2{
             font-size: 15px;
         }
+        .list0{
+    display: block;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+margin-top: 0px;
+margin-bottom: 0px;
+}
         .text{
             font-size: 12px;
         }
         .menu{
-            font-size: 15px;
+            font-size: 17px;
+            text-align: center;
+        }
+        .mune{
+             font-size: 17px;
+            text-align: center;
+            margin: 10px;
         }
         .aea{
             margin-bottom: 195px;

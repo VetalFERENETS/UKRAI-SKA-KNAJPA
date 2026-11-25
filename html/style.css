@@ -139,6 +139,14 @@ a{
 margin-top: 0px;
 margin-bottom: 0px;
 }
+.list0{
+    display: flex;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+margin-top: 0px;
+margin-bottom: 0px;
+}
 .aea{
     padding: 0;
     max-width: 100%;
