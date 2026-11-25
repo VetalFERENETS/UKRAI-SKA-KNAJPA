@@ -313,6 +313,25 @@ font-style: normal;
 font-weight: 800;
 line-height: normal;
 }
+.kinec1{
+    color: #FFF;
+font-family: "Abhaya Libre ExtraBold";
+font-size: 19px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+margin-top: 30px;
+}
+.kinec2{
+    color: #FFF;
+font-family: "Abhaya Libre ExtraBold";
+font-size: 19px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+}
 .toi{
 
 margin-top: 50px;
@@ -324,10 +343,35 @@ margin-top: 50px;
     gap: 40px;
 
 }
+.strawy1{
+    color: #FFF;
+    font-family: "Abhaya Libre ExtraBold";
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    position: relative;
+}
+.strawy1::after 
+{ content: '';
+     position: absolute; 
+     width: 100%;
+      transform: scaleX(0);
+       height: 2px;
+        bottom: 0;
+         left: 0;
+          background-color: #ffffff;
+           transform-origin: bottom right;
+            transition: transform 0.25s ease-out;
+}
+.strawy1:hover::after,
+ .strawy1:focus::after { transform: scaleX(1);
+     transform-origin: bottom left; 
+    }
 .strawy{
     color: #FFF;
     font-family: "Abhaya Libre ExtraBold";
-    font-size: 18px;
+    font-size: 19px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;

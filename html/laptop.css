@@ -82,8 +82,18 @@
     .kinec{
         font-size: 16px;
     }
+     .kinec1{
+        font-size: 15px;
+        margin-top: 15px;
+    }
+      .kinec2{
+        font-size: 16px;
+    }
     .strawy{
         font-size: 14px;
+    }
+    .strawy1{
+        font-size: 17px;
     }
     .meny{
         gap: 30px;
